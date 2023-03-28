@@ -1,0 +1,24 @@
+canvas{
+    border: 5px solid aqua;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px burlywood;
+
+}
+.heading{
+    font-size: 20px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px wheat;
+}
+.note{
+    font-size: 14px;
+    color: rgb(32, 178, 171);
+}
+.copy_footer{
+    position: fixed;
+    color: dimgrey;
+    background-color: cadetblue;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
